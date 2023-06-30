@@ -1,1 +1,1 @@
-export const URL= "http://localhost:8500/api/"
+export const URL= "https://flightbookingserver.onrender.com/api/"
