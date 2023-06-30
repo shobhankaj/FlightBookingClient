@@ -1,0 +1,36 @@
+
+.headerSearch {
+    height: 120px;
+    margin-top: -80px;
+    margin-bottom: 20px;
+    background-color: white;
+    border: 3px solid #9b9480;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 5px;
+    position: relative;
+    width: 64%;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+  .headerIcon {
+    color: lightgray;
+  }
+  
+  .headerSearchItem {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .headerSearchInput {
+    border: none;
+    outline: none;
+  }
+  .date {
+    background-color: white;
+    position: absolute;
+    top: 70px;
+    z-index: 2;
+  }
